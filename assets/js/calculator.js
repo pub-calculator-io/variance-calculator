@@ -13,14 +13,14 @@ function calculate() {
 	const standardDeviationPopulation = Math.sqrt(variancePopulation);
 	const ss = numbers.reduce((a, b) => a + Math.pow((b - mean), 2), 0);
 
-	_('standard-deviation-sample').innerHTML = +standardDeviationSample.toFixed(2);
-	_('standard-deviation-population').innerHTML = +standardDeviationPopulation.toFixed(2);
-	_('variance-sample').innerHTML = +varianceSample.toFixed(2);
-	_('variance-population').innerHTML = +variancePopulation.toFixed(2);
-	_('mean-sample').innerHTML = +mean.toFixed(2);
-	_('mean-population').innerHTML = +mean.toFixed(2);
+	_('standard-deviation-sample').innerHTML = +standardDeviationSample.toFixed(4);
+	_('standard-deviation-population').innerHTML = +standardDeviationPopulation.toFixed(4);
+	_('variance-sample').innerHTML = +varianceSample.toFixed(4);
+	_('variance-population').innerHTML = +variancePopulation.toFixed(4);
+	_('mean-sample').innerHTML = +mean.toFixed(4);
+	_('mean-population').innerHTML = +mean.toFixed(4);
 	_('count-sample').innerHTML = numbersLength;
 	_('count-population').innerHTML = numbersLength;
-	_('sum-sample').innerHTML = +ss.toFixed(2);
-	_('sum-population').innerHTML = +ss.toFixed(2);
+	_('sum-sample').innerHTML = +ss.toFixed(4);
+	_('sum-population').innerHTML = +ss.toFixed(4);
 }
