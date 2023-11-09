@@ -13,6 +13,8 @@ Given a discrete data set representing a sample or a population, the calculator 
 
 Given a discrete data set representing a sample or a population, the calculator calculates the mean, variance, and standard deviation and displays the workflow involved in the calculation.
 
+[Variance Calculator Homepage](https://www.calculator.io/variance-calculator/ "Variance Calculator Homepage")
+
 __Shortcode__
 
 Use the Variance Calculator shortcode:
