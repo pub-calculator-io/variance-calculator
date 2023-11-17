@@ -1,6 +1,6 @@
 === Variance Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: variance calculator, discrete data set, sample data, population data, statistical mean calculation, standard deviation, data set dispersion, population variance σ², sample variance s², squared deviations
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
