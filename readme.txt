@@ -1,4 +1,4 @@
-=== Variance Calculator by Calculator.iO ===
+=== Variance Calculator ===
 Contributors: calculatorio
 Tags: variance calculator, discrete data set, sample data, population data, statistical mean calculation, standard deviation, data set dispersion, population variance σ², sample variance s², squared deviations
 Requires at least: 5.0
