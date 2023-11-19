@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Variance Calculator by www.calculator.io
+Plugin Name: CI Variance calculator
 Plugin URI: https://www.calculator.io/variance-calculator/
 Description: Given a discrete data set representing a sample or a population, the calculator calculates the mean, variance, and standard deviation and displays the workflow involved in the calculation.
 Version: 1.0.0
