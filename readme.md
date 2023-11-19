@@ -7,7 +7,7 @@ Given a discrete data set representing a sample or a population, the calculator 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/variance-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /variance-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Variance Calculator](https://www.calculator.io/variance-calculator/ "Variance Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
