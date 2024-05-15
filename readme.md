@@ -3,7 +3,6 @@
 Given a discrete data set representing a sample or a population, the calculator calculates the mean, variance, and standard deviation and displays the workflow involved in the calculation.
 
 ![Variance Calculator Input Form](/assets/images/screenshot-1.png "Variance Calculator Input Form")
-![Variance Calculator Calculation Results](/assets/images/screenshot-2.png "Variance Calculator Calculation Results")
 
 ## Installation
 

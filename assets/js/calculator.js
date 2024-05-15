@@ -1,6 +1,6 @@
 function calculate() {
 	const numbers = input.get('data_set').split(/[ ,]+/).numbers().vals();
-	if(!Array.isArray(numbers) || numbers.length < 2) input.error('data_set', 'Please provide at least two numbers.');
+	if(!Array.isArray(numbers) || numbers.length < 2) input.error('data_set', 'Provide at least two numbers.');
 	if(!input.valid()) return;
 	const numbersLength = numbers.length;
 	const sum = numbers.reduce((a, b) => a + b, 0);

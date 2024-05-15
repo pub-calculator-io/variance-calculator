@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Variance Calcul
 == Screenshots ==
 
 1. The Variance Calculator Input Form.
-2. The Variance Calculator Calculation Results.
 
 == Installation ==
 
